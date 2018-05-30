@@ -8,7 +8,7 @@
 	#details {
 		display: block;
 	}
-	@media screen and (max-width: 150px) {
+	@media screen and (max-width: 75px) {
 
 		#details {
 			display: none;
